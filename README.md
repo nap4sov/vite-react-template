@@ -5,6 +5,7 @@ Key features:
 - Airbnb eslint config
 - Prettier plugin
 - Relative paths
+- Pre-commit linting & formatting
 
 ### Installation
 
